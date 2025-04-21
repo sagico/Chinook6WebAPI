@@ -11,7 +11,7 @@
         <PackageReference Include="AngleSharp" Version="0.17.1" />
         <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="6.0.8" />
         <PackageReference Include="Microsoft.AspNetCore.TestHost" Version="6.0.8" />
-        <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.8" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.35" />
         <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.8">
           <PrivateAssets>all</PrivateAssets>
           <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
